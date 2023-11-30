@@ -1,0 +1,4 @@
+{
+  "api": "https://jsonplaceholder.typicode.com/",
+  "user_json": "{\"website\":\"demarco.info\",\"address\":{\"zipcode\":\"33263\",\"geo\":{\"lng\":\"62.5342\",\"lat\":\"-31.8129\"},\"suite\":\"Suite 351\",\"city\":\"Roscoeview\",\"street\":\"Skiles Walks\"},\"phone\":\"(254)954-1289\",\"name\":\"Chelsey Dietrich\",\"company\":{\"bs\":\"revolutionize end-to-end systems\",\"catchPhrase\":\"User-centric fault-tolerant solution\",\"name\":\"Keebler LLC\"},\"id\":5,\"email\":\"Lucio_Hettinger@annie.ca\",\"username\":\"Kamren\"}"
+}

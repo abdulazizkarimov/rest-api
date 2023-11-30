@@ -1,0 +1,5 @@
+{
+  "api": "https://jsonplaceholder.typicode.com/",
+  "route_posts": "/posts",
+  "route_users": "/users"
+}
